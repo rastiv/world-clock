@@ -1,0 +1,45 @@
+body {
+    font-family: $default-font-family;
+    font-size: $default-font-size;
+    font-weight: $default-font-weight;
+    font-style: $default-font-style;
+    line-height: $default-line-height;
+    color: $color-body-text;
+    // background-color: url(./images/15462.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: $default-font-family;
+    font-weight: $default-font-weight;
+    margin: 0;
+    padding: 0;
+    color: $color-body-text;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 3.8rem;
+}
+
+h2 {
+    font-size: 2.4rem;
+    line-height: 2.8rem;
+}
+
+h3 {
+    font-size: 2.1rem;
+    line-height: 2.4rem;
+}
+
+h4 {
+    font-size: 1.8rem;
+    line-height: 2.1rem;
+}
+
+h5 {
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+}

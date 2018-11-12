@@ -1,0 +1,8 @@
+.carrier {
+    z-index: 6;
+    overflow: hidden;
+    box-shadow: $item-shadow;
+    height: $frame-size;
+    display: none;
+    background-color: bisque;
+}

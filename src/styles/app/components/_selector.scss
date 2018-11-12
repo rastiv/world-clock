@@ -1,0 +1,25 @@
+.selector {
+    
+    &__city {
+        position: relative;
+        text-align: left;
+        padding: 8px 15px 6px 15px;
+        background-color: lighten($color-body-text, 55%);
+        border: solid 1px lighten($color-body-text, 50%);
+        transition: all .4s;
+
+        &:hover {
+            background-color: lighten($color-body-text, 52%);
+            border: solid 1px lighten($color-body-text, 45%);
+        }
+
+        &:not(:last-child) {
+            margin-bottom: 8px;
+        }
+
+        h5 {
+            font-weight: 300;
+            color: lighten($color-body-text, 20%);
+        }
+    }
+}

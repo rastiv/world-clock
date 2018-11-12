@@ -1,0 +1,36 @@
+.line {
+    z-index: 9;
+    width: 2px;
+    height: calc(100% - 110px);
+    top: 110px;
+    background-color: $color-red;
+    opacity: 0;
+    transition: opacity 0.6s;
+
+    &.show {
+        opacity: 1;
+    }
+
+    &__circle {
+        position: absolute;
+        border-radius: 50%;
+
+        &--red {
+            top: -4px;
+            left: -4px;
+            width: 10px;
+            height: 10px;
+            background-color: $color-red;
+            z-index: 1;
+        }
+
+        &--white {
+            top: -12px;
+            left: -12px;
+            width: 26px;
+            height: 26px;
+            background-color: $color-white;
+            box-shadow: 0 0 11px rgba($color-black, .2);
+        }
+    }
+}

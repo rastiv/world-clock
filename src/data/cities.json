@@ -1,0 +1,1689 @@
+{
+    "Afghanistan": {
+        "Currency": "Afghani",
+        "CurrencyCode": "AFN",
+        "Cities": [
+            {
+                "City": "Kabul",
+                "Code": "kabul",
+                "Location": "34°32'N / 69°10'E",
+                "LatLon": [34.53, 69.17],
+                "UTC": "+4:30",
+                "img": ""
+            }
+        ]
+    },
+
+    "Algeria": {
+        "Currency": "Algerian Dinar",
+        "CurrencyCode": "DZD",
+        "Cities": [
+            {
+                "City": "Algiers",
+                "Code": "algiers",
+                "Location": "36°46'N / 3°03'E",
+                "LatLon": [36.77, 3.05],
+                "UTC": "+1",
+                "img": ""
+            }
+        ]
+    },
+    "Argentina": {
+        "Currency": "Argentine Peso",
+        "CurrencyCode": "ARS",
+        "Cities": [
+            {
+                "City": "Buenos Aires",
+                "Code": "buenosaires",
+                "Location": "34°37'S / 58°23'W",
+                "LatLon": [-34.62, -58.38],
+                "UTC": "-3",
+                "img": ""
+            }
+        ]
+    },
+    "Australia": {
+        "Currency": "Australian Dollar",
+        "CurrencyCode": "AUD",
+        "Cities": [
+            {
+                "City": "Canberra",
+                "Code": "canberra",
+                "Location": "35°17'S / 149°08'E",
+                "LatLon": [-35.28, 149.13],
+                "UTC": "+10",
+                "img": ""
+            },
+            {
+                "City": "Sydney",
+                "Code": "sydney",
+                "Location": "33°52'S / 151°12'E",
+                "LatLon": [-33.877, 151.20],
+                "UTC": "+10",
+                "img": "http://stelanton.com/img/city/sydney.jpg"
+            },
+            {
+                "City": "Darwin",
+                "Code": "darwin",
+                "Location": "12°28'S / 130°51'E",
+                "LatLon": [-12.47, 130.85],
+                "UTC": "+9:30",
+                "img": ""
+            },
+            {
+                "City": "Brisbane",
+                "Code": "brisbane",
+                "Location": "27°28'S / 153°02'E",
+                "LatLon": [-27.47, 153.03],
+                "UTC": "+10",
+                "img": ""
+            },
+            {
+                "City": "Adelaide",
+                "Code": "adelaide",
+                "Location": "34°56'S / 138°36'E",
+                "LatLon": [-34.93, 138.60],
+                "UTC": "+9:30",
+                "img": ""
+            },
+            {
+                "City": "Melbourne",
+                "Code": "melbourne",
+                "Location": "37°49'S / 144°58'E",
+                "LatLon": [-37.82, 144.97],
+                "UTC": "+10",
+                "img": "http://stelanton.com/img/city/melbourne.jpg"
+            },
+            {
+                "City": "Perth",
+                "Code": "perth",
+                "Location": "31°57'S / 115°51'E",
+                "LatLon": [-31.95, 115.85],
+                "UTC": "+8",
+                "img": ""
+            }
+        ]
+    },
+    "Austria": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Vienna",
+                "Code": "vienna",
+                "Location": "48°13'N / 16°22'E",
+                "LatLon": [48.22, 16.37],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/vienna.jpg"
+            }
+        ]
+    },
+    "Bahamas": {
+        "Currency": "Bahamian Dollar",
+        "CurrencyCode": "BSD",
+        "Cities": [
+            {
+                "City": "Nassau",
+                "Code": "nassau",
+                "Location": "25°05'N / 77°20'W",
+                "LatLon": [25.083, -77.33],
+                "UTC": "-4",
+                "img": ""
+            }
+        ]
+    },
+    "Bangladesh": {
+        "Currency": "Taka",
+        "CurrencyCode": "BDT",
+        "Cities": [
+            {
+                "City": "Dhaka",
+                "Code": "dhaka",
+                "Location": "23°43'N / 90°25'E",
+                "LatLon": [23.72, 90.42],
+                "UTC": "+6",
+                "img": ""
+            }
+        ]
+    },
+    "Belarus": {
+        "Currency": "Belarusian Ruble",
+        "CurrencyCode": "BYN",
+        "Cities": [
+            {
+                "City": "Minsk",
+                "Code": "minsk",
+                "Location": "53°54'N / 27°33'E",
+                "LatLon": [53.90, 27.55],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Belgium": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Brussels",
+                "Code": "brussels",
+                "Location": "50°51'N / 4°21'E",
+                "LatLon": [50.85, 4.35],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/brussels.jpg"
+            }
+        ]
+    },
+    "Bolivia": {
+        "Currency": "Boliviano",
+        "CurrencyCode": "BOB",
+        "Cities": [
+            {
+                "City": "La Paz",
+                "Code": "lapaz",
+                "Location": "16°30'S / 68°08'W",
+                "LatLon": [-16.50, -68.13],
+                "UTC": "-4",
+                "img": ""
+            }
+        ]
+    },
+    "Brazil": {
+        "Currency": "Real",
+        "CurrencyCode": "BRL",
+        "Cities": [
+            {
+                "City": "Brasilia",
+                "Code": "brasilia",
+                "Location": "15°48'S / 47°53'W",
+                "LatLon": [-15.80, -47.88],
+                "UTC": "-3",
+                "img": ""
+            },
+            {
+                "City": "Rio de Janeiro",
+                "Code": "riodejaneiro",
+                "Location": "22°58'S / 43°11'W",
+                "LatLon": [-22.97, -43.18],
+                "UTC": "-3",
+                "img": ""
+            },
+            {
+                "City": "Sao Paulo",
+                "Code": "saopaulo",
+                "Location": "23°33'S / 46°38'W",
+                "LatLon": [-23.55, -46.63],
+                "UTC": "-3",
+                "img": ""
+            }
+        ]
+    },
+    "Bulgaria": {
+        "Currency": "Lev",
+        "CurrencyCode": "BGN",
+        "Cities": [
+            {
+                "City": "Sofia",
+                "Code": "sofia",
+                "Location": "42°42'N / 23°19'E",
+                "LatLon": [42.70, 23.32],
+                "UTC": "+3",
+                "img": "http://stelanton.com/img/city/sofia.jpg"
+            }
+        ]
+    },
+    "Canada": {
+        "Currency": "Canadian Dollar",
+        "CurrencyCode": "CAD",
+        "Cities": [
+            {
+                "City": "Calgary",
+                "Code": "calgary",
+                "Location": "51°03'N / 114°04'W",
+                "LatLon": [51.05, -114.067],
+                "UTC": "-6",
+                "img": ""
+            },
+            {
+                "City": "Edmonton",
+                "Code": "edmonton",
+                "Location": "53°33'N / 113°30'W",
+                "LatLon": [53.55, -113.50],
+                "UTC": "-6",
+                "img": ""
+            },
+            {
+                "City": "Vancouver",
+                "Code": "vancouver",
+                "Location": "49°17'N / 123°07'W",
+                "LatLon": [49.28, -123.12],
+                "UTC": "-7",
+                "img": "http://stelanton.com/img/city/vancouver.jpg"
+            },
+            {
+                "City": "Winnipeg",
+                "Code": "winnipeg",
+                "Location": "49°54'N / 97°08'W",
+                "LatLon": [49.90, -97.13],
+                "UTC": "-7",
+                "img": ""
+            },
+            {
+                "City": "St. John's",
+                "Code": "stjohns",
+                "Location": "47°34'N / 52°43'W",
+                "LatLon": [47.57, -52.72],
+                "UTC": "-2:30",
+                "img": ""
+            },
+            {
+                "City": "Halifax",
+                "Code": "halifax",
+                "Location": "44°39'N / 63°35'W",
+                "LatLon": [44.65, -63.58],
+                "UTC": "-3",
+                "img": ""
+            },
+            {
+                "City": "Ottawa",
+                "Code": "ottawa",
+                "Location": "45°25'N / 75°42'W",
+                "LatLon": [45.42, -75.70],
+                "UTC": "-4",
+                "img": "http://stelanton.com/img/city/ottawa.jpg"
+            },
+            {
+                "City": "Toronto",
+                "Code": "toronto",
+                "Location": "43°39'N / 79°23'W",
+                "LatLon": [43.65, -79.38],
+                "UTC": "-4",
+                "img": "http://stelanton.com/img/city/toronto.jpg"
+            },
+            {
+                "City": "Montreal",
+                "Code": "montreal",
+                "Location": "45°30'N / 73°34'W",
+                "LatLon": [45.50, -73.57],
+                "UTC": "-4",
+                "img": "http://stelanton.com/img/city/montreal.jpg"
+            }
+        ]
+    },
+    "Chile": {
+        "Currency": "Chilean Peso",
+        "CurrencyCode": "CLP",
+        "Cities": [
+            {
+                "City": "Santiago",
+                "Code": "santiago",
+                "Location": "33°26'S / 70°39'W",
+                "LatLon": [-33.43, -70.65],
+                "UTC": "-4",
+                "img": ""
+            }
+        ]
+    },
+    "China": {
+        "Currency": "Renminbi Yuan",
+        "CurrencyCode": "CNY",
+        "Cities": [
+            {
+                "City": "Beijing",
+                "Code": "beijing",
+                "Location": "39°55'N / 116°23'E",
+                "LatLon": [39.92, 116.38],
+                "UTC": "+8",
+                "img": "http://stelanton.com/img/city/beijing.jpg"
+            },
+            {
+                "City": "Shanghai",
+                "Code": "shanghai",
+                "Location": "31°14'N / 121°29'E",
+                "LatLon": [31.23, 121.48],
+                "UTC": "+8",
+                "img": "http://stelanton.com/img/city/shanghai.jpg"
+            }
+        ]
+    },
+    "Colombia": {
+        "Currency": "Colombian Peso",
+        "CurrencyCode": "COP",
+        "Cities": [
+            {
+                "City": "Bogota",
+                "Code": "bogota",
+                "Location": "4°36'N / 74°05'W",
+                "LatLon": [4.60, -74.08],
+                "UTC": "-5",
+                "img": ""
+            }
+        ]
+    },
+    "Congo Democratic Republic": {
+        "Currency": "Congolese Franc",
+        "CurrencyCode": "CDF",
+        "Cities": [
+            {
+                "City": "Kinshasa",
+                "Code": "kinshasa",
+                "Location": "4°19'S / 15°19'E",
+                "LatLon": [-4.32, 15.32],
+                "UTC": "+1",
+                "img": ""
+            }
+        ]
+    },
+    "Croatia": {
+        "Currency": "Kuna",
+        "CurrencyCode": "HRK",
+        "Cities": [
+            {
+                "City": "Zagreb",
+                "Code": "zagreb",
+                "Location": "45°49'N / 15°59'E",
+                "LatLon": [45.82, 15.98],
+                "UTC": "+2",
+                "img": ""
+            }
+        ]
+    },
+    "Cuba": {
+        "Currency": "Cuban Peso",
+        "CurrencyCode": "CUP",
+        "Cities": [
+            {
+                "City": "Havana",
+                "Code": "havana",
+                "Location": "23°08'N / 82°22'W",
+                "LatLon": [23.13, -82.37],
+                "UTC": "-4",
+                "img": "http://stelanton.com/img/city/havana.jpg"
+            }
+        ]
+    },
+    "Czech Republic": {
+        "Currency": "Koruna",
+        "CurrencyCode": "CZK",
+        "Cities": [
+            {
+                "City": "Prague",
+                "Code": "prague",
+                "Location": "50°05'N / 14°25'E",
+                "LatLon": [50.08, 14.42],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/prague.jpg"
+            }
+        ]
+    },
+    "Denmark": {
+        "Currency": "Danish Krone",
+        "CurrencyCode": "DKK",
+        "Cities": [
+            {
+                "City": "Copenhagen",
+                "Code": "copenhagen",
+                "Location": "55°41'N / 12°34'E",
+                "LatLon": [55.68, 12.57],
+                "UTC": "+2",
+                "img": ""
+            }
+        ]
+    },
+    "Dominican Republic": {
+        "Currency": "Dominican Peso",
+        "CurrencyCode": "DOP",
+        "Cities": [
+            {
+                "City": "Santo Domingo",
+                "Code": "santodomingo",
+                "Location": "18°28'N / 69°56'W",
+                "LatLon": [18.47, -69.93],
+                "UTC": "-4",
+                "img": ""
+            }
+        ]
+    },
+    "Egypt": {
+        "Currency": "Egyptian Pound",
+        "CurrencyCode": "EGP",
+        "Cities": [
+            {
+                "City": "Cairo",
+                "Code": "cairo",
+                "Location": "30°03'N / 31°14'E",
+                "LatLon": [30.05, 31.23],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/cairo.jpg"
+            }
+        ]
+    },
+    "El Salvador": {
+        "Currency": "United States Dollar",
+        "CurrencyCode": "USD",
+        "Cities": [
+            {
+                "City": "San Salvador",
+                "Code": "sansalvador",
+                "Location": "13°42'N / 89°12'W",
+                "LatLon": [13.70, -89.20],
+                "UTC": "-6",
+                "img": ""
+            }
+        ]
+    },
+    "Estonia": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Tallinn",
+                "Code": "tallinn",
+                "Location": "59°26'N / 24°45'E",
+                "LatLon": [59.43, 24.75],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Ethiopia": {
+        "Currency": "Birr",
+        "CurrencyCode": "ETB",
+        "Cities": [
+            {
+                "City": "Addis Ababa",
+                "Code": "addisababa",
+                "Location": "9°01'N / 38°45'E",
+                "LatLon": [9.07, 38.75],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Fiji": {
+        "Currency": "Fijian Dollar",
+        "CurrencyCode": "FJD",
+        "Cities": [
+            {
+                "City": "Suva",
+                "Code": "suva",
+                "Location": "18°08'S / 178°26'E",
+                "LatLon": [-18.13, 178.43],
+                "UTC": "+12",
+                "img": ""
+            }
+        ]
+    },
+    "Finland": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Helsinki",
+                "Code": "helsinki",
+                "Location": "60°10'N / 24°57'E",
+                "LatLon": [60.17, 24.95],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "France": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Paris",
+                "Code": "paris",
+                "Location": "48°51'N / 2°21'E",
+                "LatLon": [48.85, 2.35],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/paris.jpg"
+            }
+        ]
+    },
+    "Germany": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Berlin",
+                "Code": "berlin",
+                "Location": "52°31'N / 13°23'E",
+                "LatLon": [52.52, 13.38],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/berlin.jpg"
+            },
+            {
+                "City": "Frankfurt",
+                "Code": "frankfurt",
+                "Location": "50°07'N / 8°41'E",
+                "LatLon": [50.12, 8.68],
+                "UTC": "+2",
+                "img": ""
+            }
+        ]
+    },
+    "Ghana": {
+        "Currency": "Cedi",
+        "CurrencyCode": "GHC",
+        "Cities": [
+            {
+                "City": "Accra",
+                "Code": "accra",
+                "Location": "5°33'N / 0°12'W",
+                "LatLon": [5.55, -0.20],
+                "UTC": "0",
+                "img": ""
+            }
+        ]
+    },
+    "Greece": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Athens",
+                "Code": "athens",
+                "Location": "37°59'N / 23°44'E",
+                "LatLon": [37.98, 23.73],
+                "UTC": "+3",
+                "img": "http://stelanton.com/img/city/athens.jpg"
+            }
+        ]
+    },
+    "Guatemala": {
+        "Currency": "Quetzal",
+        "CurrencyCode": "GTQ",
+        "Cities": [
+            {
+                "City": "Guatemala City",
+                "Code": "guatemalacity",
+                "Location": "14°37'N / 90°32'W",
+                "LatLon": [14.62, -90.53],
+                "UTC": "-6",
+                "img": ""
+            }
+        ]
+    },
+    "Honduras": {
+        "Currency": "Lempira",
+        "CurrencyCode": "HNL",
+        "Cities": [
+            {
+                "City": "Tegucigalpa",
+                "Code": "tegucigalpa",
+                "Location": "14°06'N / 87°12'W",
+                "LatLon": [14.10, -87.20],
+                "UTC": "-6",
+                "img": ""
+            }
+        ]
+    },
+    "Hong Kong": {
+        "Currency": "Hong Kong Dollar",
+        "CurrencyCode": "HKD",
+        "Cities": [
+            {
+                "City": "Hong Kong",
+                "Code": "hongkong",
+                "Location": "22°19'N / 114°11'E",
+                "LatLon": [22.32, 114.18],
+                "UTC": "+8",
+                "img": "http://stelanton.com/img/city/hongkong.jpg"
+            }
+        ]
+    },
+    "Hungary": {
+        "Currency": "Forint",
+        "CurrencyCode": "HUF",
+        "Cities": [
+            {
+                "City": "Budapest",
+                "Code": "budapest",
+                "Location": "47°30'N / 19°03'E",
+                "LatLon": [47.50, 19.05],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/budapest.jpg"
+            }
+        ]
+    },
+    "Iceland": {
+        "Currency": "Icelandic Krona",
+        "CurrencyCode": "ISK",
+        "Cities": [
+            {
+                "City": "Reykjavik",
+                "Code": "reykjavik",
+                "Location": "64°09'N / 21°57'W",
+                "LatLon": [64.15, -21.95],
+                "UTC": "0",
+                "img": ""
+            }
+        ]
+    },
+    "India": {
+        "Currency": "Indian Rupee",
+        "CurrencyCode": "INR",
+        "Cities": [
+            {
+                "City": "New Delhi",
+                "Code": "newdelhi",
+                "Location": "28°37'N / 77°13'E",
+                "LatLon": [28.62, 77.22],
+                "UTC": "+5:30",
+                "img": ""
+            },
+            {
+                "City": "Bangalore",
+                "Code": "bangalore",
+                "Location": "12°58'N / 77°34'E",
+                "LatLon": [12.97, 77.57],
+                "UTC": "+5:30",
+                "img": ""
+            },
+            {
+                "City": "Mumbai",
+                "Code": "mumbai",
+                "Location": "18°57'N / 72°50'E",
+                "LatLon": [18.95, 72.83],
+                "UTC": "+5:30",
+                "img": "http://stelanton.com/img/city/mumbai.jpg"
+            },
+            {
+                "City": "Kolkata",
+                "Code": "kolkata",
+                "Location": "22°35'N / 88°21'E",
+                "LatLon": [22.58, 88.35],
+                "UTC": "+5:30",
+                "img": ""
+            }
+        ]
+    },
+    "Indonesia": {
+        "Currency": "Indonesian Rupiah",
+        "CurrencyCode": "IDR",
+        "Cities": [
+            {
+                "City": "Jakarta",
+                "Code": "jakarta",
+                "Location": "6°09'S / 106°49'E",
+                "LatLon": [-6.15, 106.82],
+                "UTC": "+7",
+                "img": ""
+            }
+        ]
+    },
+    "Iran": {
+        "Currency": "Iranian Rial",
+        "CurrencyCode": "IRR",
+        "Cities": [
+            {
+                "City": "Tehran",
+                "Code": "tehran",
+                "Location": "35°42'N / 51°25'E",
+                "LatLon": [35.70, 51.42],
+                "UTC": "+4:30",
+                "img": "http://stelanton.com/img/city/tehran.jpg"
+            }
+        ]
+    },
+    "Iraq": {
+        "Currency": "Iraqi Dinar",
+        "CurrencyCode": "IQD",
+        "Cities": [
+            {
+                "City": "Baghdad",
+                "Code": "baghdad",
+                "Location": "33°19'N / 44°25'E",
+                "LatLon": [33.32, 44.42],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Ireland": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Dublin",
+                "Code": "dublin",
+                "Location": "53°21'N / 6°16'W",
+                "LatLon": [53.35, -6.27],
+                "UTC": "+1",
+                "img": ""
+            }
+        ]
+    },
+    "Israel": {
+        "Currency": "Israeli New Shekel",
+        "CurrencyCode": "ILS",
+        "Cities": [
+            {
+                "City": "Jerusalem",
+                "Code": "jerusalem",
+                "Location": "31°47'N / 35°13'E",
+                "LatLon": [31.78, 35.22],
+                "UTC": "+3",
+                "img": "http://stelanton.com/img/city/jerusalem.jpg"
+            }
+        ]
+    },
+    "Italy": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Rome",
+                "Code": "rome",
+                "Location": "41°54'N / 12°29'E",
+                "LatLon": [41.90, 12.48],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/rome.jpg"
+            }
+        ]
+    },
+    "Jamaica": {
+        "Currency": "Jamaican Dollar",
+        "CurrencyCode": "JMD",
+        "Cities": [
+            {
+                "City": "Kingston",
+                "Code": "kingston",
+                "Location": "18°00'N / 76°47'W",
+                "LatLon": [18.00, -76.78],
+                "UTC": "-5",
+                "img": ""
+            }
+        ]
+    },
+    "Japan": {
+        "Currency": "Yen",
+        "CurrencyCode": "JPY",
+        "Cities": [
+            {
+                "City": "Tokyo",
+                "Code": "tokyo",
+                "Location": "35°41'N / 139°42'E",
+                "LatLon": [35.68, 139.70],
+                "UTC": "+9",
+                "img": "http://stelanton.com/img/city/tokyo.jpg"
+            }
+        ]
+    },
+    "Jordan": {
+        "Currency": "Jordanian Dinar",
+        "CurrencyCode": "JOD",
+        "Cities": [
+            {
+                "City": "Amman",
+                "Code": "amman",
+                "Location": "31°57'N / 35°55'E",
+                "LatLon": [31.95, 35.92],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Kazakhstan": {
+        "Currency": "Tenge",
+        "CurrencyCode": "KZT",
+        "Cities": [
+            {
+                "City": "Almaty",
+                "Code": "almaty",
+                "Location": "43°15'N / 76°55'E",
+                "LatLon": [43.25, 76.92],
+                "UTC": "+6",
+                "img": ""
+            }
+        ]
+    },
+    "Kenya": {
+        "Currency": "Kenyan Shilling",
+        "CurrencyCode": "KES",
+        "Cities": [
+            {
+                "City": "Nairobi",
+                "Code": "nairobi",
+                "Location": "1°17'S / 36°49'E",
+                "LatLon": [-1.28, 36.82],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Kiribati": {
+        "Currency": "Australian Dollar",
+        "CurrencyCode": "AUD",
+        "Cities": [
+            {
+                "City": "Kiritimati",
+                "Code": "kiritimati",
+                "Location": "1°52'N / 157°20'W",
+                "LatLon": [1.87, -157.33],
+                "UTC": "+14",
+                "img": ""
+            }
+        ]
+    },
+    "Kuwait": {
+        "Currency": "Kuwaiti Dinar",
+        "CurrencyCode": "KD",
+        "Cities": [
+            {
+                "City": "Kuwait City",
+                "Code": "kuwaitcity",
+                "Location": "29°23'N / 47°58'E",
+                "LatLon": [29.38, 47.97],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Lebanon": {
+        "Currency": "Lebanese Pound",
+        "CurrencyCode": "LBP",
+        "Cities": [
+            {
+                "City": "Beirut",
+                "Code": "beirut",
+                "Location": "33°53'N / 35°29'E",
+                "LatLon": [33.88, 35.48],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Madagascar": {
+        "Currency": "Malagasy Ariary",
+        "CurrencyCode": "MGA",
+        "Cities": [
+            {
+                "City": "Antananarivo",
+                "Code": "antananarivo",
+                "Location": "18°55'S / 47°32'E",
+                "LatLon": [-18.92, 47.53],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Malaysia": {
+        "Currency": "Ringgit",
+        "CurrencyCode": "MYR",
+        "Cities": [
+            {
+                "City": "Kuala Lumpur",
+                "Code": "kualalumpur",
+                "Location": "3°09'N / 101°42'E",
+                "LatLon": [3.15, 101.70],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Mexico": {
+        "Currency": "Mexican Peso",
+        "CurrencyCode": "MXN",
+        "Cities": [
+            {
+                "City": "Mexico City",
+                "Code": "mexicocity",
+                "Location": "19°25'N / 99°08'W",
+                "LatLon": [19.427, -99.13],
+                "UTC": "-5",
+                "img": "http://stelanton.com/img/city/mexicocity.jpg"
+            }
+        ]
+    },
+    "Morocco": {
+        "Currency": "Moroccan Dirham",
+        "CurrencyCode": "MAD",
+        "Cities": [
+            {
+                "City": "Casablanca",
+                "Code": "casablanca",
+                "Location": "33°36'N / 7°37'W",
+                "LatLon": [33.60, -7.62],
+                "UTC": "+1",
+                "img": ""
+            }
+        ]
+    },
+    "Myanmar": {
+        "Currency": "Kyat",
+        "CurrencyCode": "MMK",
+        "Cities": [
+            {
+                "City": "Yangon",
+                "Code": "yangon",
+                "Location": "16°49'N / 96°10'E",
+                "LatLon": [16.82, 96.12],
+                "UTC": "+6:30",
+                "img": ""
+            }
+        ]
+    },
+    "Nepal": {
+        "Currency": "Nepalese Rupee",
+        "CurrencyCode": "NPR",
+        "Cities": [
+            {
+                "City": "Kathmandu",
+                "Code": "kathmandu",
+                "Location": "27°43'N / 85°19'E",
+                "LatLon": [27.72, 85.32],
+                "UTC": "+5:45",
+                "img": ""
+            }
+        ]
+    },
+    "Netherlands": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Amsterdam",
+                "Code": "amsterdam",
+                "Location": "52°22'N / 4°54'E",
+                "LatLon": [52.37, 4.90],
+                "UTC": "+2",
+                "img": ""
+            }
+        ]
+    },
+    "New Zealand": {
+        "Currency": "NZ Dollar",
+        "CurrencyCode": "NZD",
+        "Cities": [
+            {
+                "City": "Auckland",
+                "Code": "auckland",
+                "Location": "36°51'S / 174°46'E",
+                "LatLon": [-36.85, 174.77],
+                "UTC": "+12",
+                "img": ""
+            }
+        ]
+    },
+    "Nicaragua": {
+        "Currency": "Cordoba",
+        "CurrencyCode": "NIO",
+        "Cities": [
+            {
+                "City": "Managua",
+                "Code": "managua",
+                "Location": "12°09'N / 86°16'W",
+                "LatLon": [12.15, -86.27],
+                "UTC": "-6",
+                "img": ""
+            }
+        ]
+    },
+    "Nigeria": {
+        "Currency": "Naira",
+        "CurrencyCode": "NGN",
+        "Cities": [
+            {
+                "City": "Lagos",
+                "Code": "lagos",
+                "Location": "6°27'N / 3°21'E",
+                "LatLon": [6.45, 3.35],
+                "UTC": "+1",
+                "img": ""
+            }
+        ]
+    },
+    "Norway": {
+        "Currency": "Norwegian Krone",
+        "CurrencyCode": "NOK",
+        "Cities": [
+            {
+                "City": "Oslo",
+                "Code": "oslo",
+                "Location": "59°55'N / 10°44'E",
+                "LatLon": [59.92, 10.73],
+                "UTC": "+2",
+                "img": ""
+            }
+        ]
+    },
+    "Pakistan": {
+        "Currency": "Pakistani Rupee",
+        "CurrencyCode": "PKR",
+        "Cities": [
+            {
+                "City": "Islamabad",
+                "Code": "islamabad",
+                "Location": "33°43'N / 73°04'E",
+                "LatLon": [33.72, 73.07],
+                "UTC": "+5",
+                "img": ""
+            },
+            {
+                "City": "Karachi",
+                "Code": "karachi",
+                "Location": "24°52'N / 67°02'E",
+                "LatLon": [24.87, 67.03],
+                "UTC": "+5",
+                "img": ""
+            },
+            {
+                "City": "Lahore",
+                "Code": "lahore",
+                "Location": "31°35'N / 74°18'E",
+                "LatLon": [31.58, 74.30],
+                "UTC": "+5",
+                "img": ""
+            }
+        ]
+    },
+    "Paraguay": {
+        "Currency": "Guaraní",
+        "CurrencyCode": "PYG",
+        "Cities": [
+            {
+                "City": "Asuncion",
+                "Code": "asuncion",
+                "Location": "25°17'S / 57°38'W",
+                "LatLon": [-25.28, -57.63],
+                "UTC": "-4",
+                "img": ""
+            }
+        ]
+    },
+    "Peru": {
+        "Currency": "Sol",
+        "CurrencyCode": "PEN",
+        "Cities": [
+            {
+                "City": "Lima",
+                "Code": "lima",
+                "Location": "12°03'S / 77°02'W",
+                "LatLon": [-12.05, -77.03],
+                "UTC": "-5",
+                "img": ""
+            }
+        ]
+    },
+    "Philippines": {
+        "Currency": "Philippine Peso",
+        "CurrencyCode": "PHP",
+        "Cities": [
+            {
+                "City": "Manila",
+                "Code": "manila",
+                "Location": "14°35'N / 120°59'E",
+                "LatLon": [14.58, 120.98],
+                "UTC": "+8",
+                "img": ""
+            }
+        ]
+    },
+    "Poland": {
+        "Currency": "Zloty",
+        "CurrencyCode": "PLN",
+        "Cities": [
+            {
+                "City": "Warsaw",
+                "Code": "warsaw",
+                "Location": "52°14'N / 21°00'E",
+                "LatLon": [52.23, 21.00],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/warsaw.jpg"
+            }
+        ]
+    },
+    "Portugal": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Lisbon",
+                "Code": "lisbon",
+                "Location": "38°44'N / 9°09'W",
+                "LatLon": [38.73, -9.15],
+                "UTC": "+1",
+                "img": ""
+            }
+        ]
+    },
+    "Puerto Rico": {
+        "Currency": "United States Dollar",
+        "CurrencyCode": "USD",
+        "Cities": [
+            {
+                "City": "San Juan",
+                "Code": "sanjuan",
+                "Location": "18°28'N / 66°07'W",
+                "LatLon": [18.47, -66.12],
+                "UTC": "-4",
+                "img": ""
+            }
+        ]
+    },
+    "Qatar": {
+        "Currency": "Qatari Riyal",
+        "CurrencyCode": "QAR",
+        "Cities": [
+            {
+                "City": "Doha",
+                "Code": "doha",
+                "Location": "25°17'N / 51°32'E",
+                "LatLon": [25.28, 51.53],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Romania": {
+        "Currency": "Leu",
+        "CurrencyCode": "RON",
+        "Cities": [
+            {
+                "City": "Bucharest",
+                "Code": "bucharest",
+                "Location": "44°26'N / 26°06'E",
+                "LatLon": [44.43, 26.10],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Russia": {
+        "Currency": "Russian Ruble",
+        "CurrencyCode": "RUB",
+        "Cities": [
+            {
+                "City": "Anadyr",
+                "Code": "anadyr",
+                "Location": "64°44'N / 177°31'E",
+                "LatLon": [64.733, 177.52],
+                "UTC": "+12",
+                "img": ""
+            },
+            {
+                "City": "Moscow",
+                "Code": "moscow",
+                "Location": "55°45'N / 37°37'E",
+                "LatLon": [55.75, 37.62],
+                "UTC": "+3",
+                "img": "http://stelanton.com/img/city/moscow.jpg"
+            }
+        ]
+    },
+    "Saudi Arabia": {
+        "Currency": "Saudi Riyal",
+        "CurrencyCode": "SAR",
+        "Cities": [
+            {
+                "City": "Riyadh",
+                "Code": "riyadh",
+                "Location": "24°38'N / 46°43'E",
+                "LatLon": [24.63, 46.72],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Serbia": {
+        "Currency": "Serbian Dinar",
+        "CurrencyCode": "RSD",
+        "Cities": [
+            {
+                "City": "Belgrade",
+                "Code": "belgrade",
+                "Location": "44°49'N / 20°27'E",
+                "LatLon": [44.82, 20.45],
+                "UTC": "+2",
+                "img": ""
+            }
+        ]
+    },
+    "Singapore": {
+        "Currency": "Singapore Dollar",
+        "CurrencyCode": "GDS",
+        "Cities": [
+            {
+                "City": "Singapore",
+                "Code": "singapore",
+                "Location": "1°17'N / 103°51'E",
+                "LatLon": [1.28, 103.85],
+                "UTC": "+8",
+                "img": "http://stelanton.com/img/city/singapore.jpg"
+            }
+        ]
+    },
+    "South Africa": {
+        "Currency": "Rand",
+        "CurrencyCode": "ZAR",
+        "Cities": [
+            {
+                "City": "Cape Town",
+                "Code": "capetown",
+                "Location": "33°55'S / 18°25'E",
+                "LatLon": [-33.92, 18.42],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/capetown.jpg"
+            },
+            {
+                "City": "Johannesburg",
+                "Code": "johannesburg",
+                "Location": "26°12'S / 28°03'E",
+                "LatLon": [-26.20, 28.05],
+                "UTC": "+2",
+                "img": ""
+            }
+        ]
+    },
+    "Spain": {
+        "Currency": "Euro",
+        "CurrencyCode": "EUR",
+        "Cities": [
+            {
+                "City": "Madrid",
+                "Code": "madrid",
+                "Location": "40°25'N / 3°42'W",
+                "LatLon": [40.42, -3.70],
+                "UTC": "+2",
+                "img": ""
+            },
+            {
+                "City": "Barcelona",
+                "Code": "barcelona",
+                "Location": "41°23'N / 2°11'E",
+                "LatLon": [41.38, 2.18],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/barcelona.jpg"
+            }
+        ]
+    },
+    "Sweden": {
+        "Currency": "Swedish Krona",
+        "CurrencyCode": "SEK",
+        "Cities": [
+            {
+                "City": "Stockholm",
+                "Code": "stockholm",
+                "Location": "59°20'N / 18°04'E",
+                "LatLon": [59.33, 18.07],
+                "UTC": "+2",
+                "img": ""
+            }
+        ]
+    },
+    "Switzerland": {
+        "Currency": "Swiss Franc",
+        "CurrencyCode": "CHF",
+        "Cities": [
+            {
+                "City": "Zurich",
+                "Code": "zurich",
+                "Location": "47°22'N / 8°32'E",
+                "LatLon": [47.37, 8.53],
+                "UTC": "+2",
+                "img": "http://stelanton.com/img/city/zurich.jpg"
+            }
+        ]
+    },
+    "Taiwan": {
+        "Currency": "New Taiwan Dollar",
+        "CurrencyCode": "TWD",
+        "Cities": [
+            {
+                "City": "Taipei",
+                "Code": "taipei",
+                "Location": "25°04'N / 121°31'E",
+                "LatLon": [25.07, 121.52],
+                "UTC": "+8",
+                "img": "http://stelanton.com/img/city/taipei.jpg"
+            }
+        ]
+    },
+    "Tanzania": {
+        "Currency": "Tanzanian Shilling",
+        "CurrencyCode": "TZS",
+        "Cities": [
+            {
+                "City": "Dar es Salaam",
+                "Code": "daressalaam",
+                "Location": "6°49'S / 39°17'E",
+                "LatLon": [-6.82, 39.28],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "Thailand": {
+        "Currency": "Baht",
+        "CurrencyCode": "THB",
+        "Cities": [
+            {
+                "City": "Bangkok",
+                "Code": "bangkok",
+                "Location": "13°44'N / 100°30'E",
+                "LatLon": [13.73, 100.50],
+                "UTC": "+7",
+                "img": ""
+            }
+        ]
+    },
+    "Turkey": {
+        "Currency": "Turkish Lira",
+        "CurrencyCode": "TRY",
+        "Cities": [
+            {
+                "City": "Ankara",
+                "Code": "ankara",
+                "Location": "39°55'N / 32°51'E",
+                "LatLon": [39.92, 32.85],
+                "UTC": "+3",
+                "img": ""
+            },
+            {
+                "City": "Istanbul",
+                "Code": "istanbul",
+                "Location": "41°01'N / 28°58'E",
+                "LatLon": [41.017, 28.97],
+                "UTC": "+3",
+                "img": "http://stelanton.com/img/city/istanbul.jpg"
+            }
+        ]
+    },
+    "Ukraine": {
+        "Currency": "Hryvnia",
+        "CurrencyCode": "UAH",
+        "Cities": [
+            {
+                "City": "Kyiv",
+                "Code": "kyiv",
+                "Location": "50°26'N / 30°31'E",
+                "LatLon": [50.43, 30.52],
+                "UTC": "+3",
+                "img": ""
+            }
+        ]
+    },
+    "United Arab Emirates": {
+        "Currency": "Emirati dirham",
+        "CurrencyCode": "AED",
+        "Cities": [
+            {
+                "City": "Dubai",
+                "Code": "dubai",
+                "Location": "25°16'N / 55°18'E",
+                "LatLon": [25.27, 55.30],
+                "UTC": "+4",
+                "img": "http://stelanton.com/img/city/dubai.jpg"
+            }
+        ]
+    },
+    "United Kingdom": {
+        "Currency": "Pound Sterling",
+        "CurrencyCode": "GBP",
+        "Cities": [
+            {
+                "City": "London",
+                "Code": "london",
+                "Location": "51°30'N / 0°08'W",
+                "LatLon": [51.50, -0.13],
+                "UTC": "+1",
+                "img": "http://stelanton.com/img/city/london.jpg"
+            }
+        ]
+    },
+    "Uruguay": {
+        "Currency": "Uruguayan Peso",
+        "CurrencyCode": "UYU",
+        "Cities": [
+            {
+                "City": "Montevideo",
+                "Code": "montevideo",
+                "Location": "34°54'S / 56°11'W",
+                "LatLon": [-34.90, -56.18],
+                "UTC": "-3",
+                "img": ""
+            }
+        ]
+    },
+    "United States of America": {
+        "Currency": "United States Dollar",
+        "CurrencyCode": "USD",
+        "Cities": [
+            {
+                "City": "Anchorage",
+                "Code": "anchorage",
+                "Location": "61°11'N / 149°53'W",
+                "LatLon": [61.18, -149.88],
+                "UTC": "-8",
+                "img": ""
+            },
+            {
+                "City": "Phoenix",
+                "Code": "phoenix",
+                "Location": "33°27'N / 112°04'W",
+                "LatLon": [33.45, -112.07],
+                "UTC": "-7",
+                "img": ""
+            },
+            {
+                "City": "Los Angeles",
+                "Code": "losangeles",
+                "Location": "34°03'N / 118°15'W",
+                "LatLon": [34.05, -118.25],
+                "UTC": "-7",
+                "img": "http://stelanton.com/img/city/losangeles.jpg"
+            },
+            {
+                "City": "San Francisco",
+                "Code": "sanfrancisco",
+                "Location": "37°47'N / 122°25'W",
+                "LatLon": [37.78, -122.42],
+                "UTC": "-7",
+                "img": "http://stelanton.com/img/city/sanfrancisco.jpg"
+            },
+            {
+                "City": "Denver",
+                "Code": "denver",
+                "Location": "39°45'N / 104°59'W",
+                "LatLon": [39.75, -104.98],
+                "UTC": "-6",
+                "img": ""
+            },
+            {
+                "City": "Washington DC",
+                "Code": "washingtondc",
+                "Location": "38°54'N / 77°02'W",
+                "LatLon": [38.90, -77.03],
+                "UTC": "-4",
+                "img": "http://stelanton.com/img/city/washingtondc.jpg"
+            },
+            {
+                "City": "Miami",
+                "Code": "miami",
+                "Location": "25°46'N / 80°12'W",
+                "LatLon": [25.77, -80.20],
+                "UTC": "-4",
+                "img": "http://stelanton.com/img/city/miami.jpg"
+            },
+            {
+                "City": "Atlanta",
+                "Code": "atlanta",
+                "Location": "33°46'N / 84°23'W",
+                "LatLon": [33.77, -84.38],
+                "UTC": "-4",
+                "img": ""
+            },
+            {
+                "City": "Honolulu",
+                "Code": "honolulu",
+                "Location": "21°19'N / 157°51'W",
+                "LatLon": [21.32, -157.85],
+                "UTC": "-10",
+                "img": ""
+            },
+            {
+                "City": "Chicago",
+                "Code": "chicago",
+                "Location": "41°53'N / 87°38'W",
+                "LatLon": [41.88, -87.63],
+                "UTC": "-5",
+                "img": ""
+            },
+            {
+                "City": "Indianapolis",
+                "Code": "indianapolis",
+                "Location": "39°46'N / 86°09'W",
+                "LatLon": [39.77, -86.15],
+                "UTC": "-4",
+                "img": ""
+            },
+            {
+                "City": "New Orleans",
+                "Code": "neworleans",
+                "Location": "29°57'N / 90°04'W",
+                "LatLon": [29.95, -90.07],
+                "UTC": "-5",
+                "img": ""
+            },
+            {
+                "City": "Boston",
+                "Code": "boston",
+                "Location": "42°21'N / 71°03'W",
+                "LatLon": [42.35, -71.05],
+                "UTC": "-4",
+                "img": ""
+            },
+            {
+                "City": "Detroit",
+                "Code": "detroit",
+                "Location": "42°20'N / 83°03'W",
+                "LatLon": [42.33, -83.05],
+                "UTC": "-4",
+                "img": ""
+            },
+            {
+                "City": "Minneapolis",
+                "Code": "minneapolis",
+                "Location": "44°59'N / 93°16'W",
+                "LatLon": [44.98, -93.27],
+                "UTC": "-5",
+                "img": ""
+            },
+            {
+                "City": "Las Vegas",
+                "Code": "lasvegas",
+                "Location": "36°08'N / 115°10'W",
+                "LatLon": [36.13, -115.17],
+                "UTC": "-7",
+                "img": "http://stelanton.com/img/city/lasvegas.jpg"
+            },
+            {
+                "City": "New York",
+                "Code": "newyork",
+                "Location": "40°43'N / 74°01'W",
+                "LatLon": [40.72, -74.017],
+                "UTC": "-4",
+                "img": "http://stelanton.com/img/city/newyork.jpg"
+            },
+            {
+                "City": "Philadelphia",
+                "Code": "philadelphia",
+                "Location": "39°57'N / 75°10'W",
+                "LatLon": [39.95, -75.17],
+                "UTC": "-4",
+                "img": ""
+            },
+            {
+                "City": "Dallas",
+                "Code": "dallas",
+                "Location": "32°47'N / 96°48'W",
+                "LatLon": [32.78, -96.80],
+                "UTC": "-5",
+                "img": ""
+            },
+            {
+                "City": "Houston",
+                "Code": "houston",
+                "Location": "29°45'N / 95°22'W",
+                "LatLon": [29.75, -95.36],
+                "UTC": "-5",
+                "img": ""
+            },
+            {
+                "City": "Salt Lake City",
+                "Code": "saltlakecity",
+                "Location": "40°46'N / 111°53'W",
+                "LatLon": [40.76, -111.88],
+                "UTC": "-6",
+                "img": ""
+            },
+            {
+                "City": "Seattle",
+                "Code": "seattle",
+                "Location": "47°37'N / 122°21'W",
+                "LatLon": [47.62, -122.35],
+                "UTC": "-7",
+                "img": "http://stelanton.com/img/city/seattle.jpg"
+            }
+        ]
+    },
+    "Uzbekistan": {
+        "Currency": "Uzbekistani Som",
+        "CurrencyCode": "UZS",
+        "Cities": [
+            {
+                "City": "Tashkent",
+                "Code": "tashkent",
+                "Location": "41°19'N / 69°17'E",
+                "LatLon": [41.32, 69.28],
+                "UTC": "+5",
+                "img": ""
+            }
+        ]
+    },
+    "Venezuela": {
+        "Currency": "Bolivar",
+        "CurrencyCode": "VEB",
+        "Cities": [
+            {
+                "City": "Caracas",
+                "Code": "caracas",
+                "Location": "10°30'N / 66°54'W",
+                "LatLon": [10.50, -66.90],
+                "UTC": "-4",
+                "img": ""
+            }
+        ]
+    },
+    "Vietnam": {
+        "Currency": "Dong",
+        "CurrencyCode": "VND",
+        "Cities": [
+            {
+                "City": "Hanoi",
+                "Code": "hanoi",
+                "Location": "21°02'N / 105°51'E",
+                "LatLon": [21.03, 105.85],
+                "UTC": "+7",
+                "img": ""
+            }
+        ]
+    },
+    "Zimbabwe": {
+        "Currency": "N/A",
+        "CurrencyCode": "N/A",
+        "Cities": [
+            {
+                "City": "Harare",
+                "Code": "harare",
+                "Location": "17°50'S / 31°03'E",
+                "LatLon": [-17.83, 31.05],
+                "UTC": "+2",
+                "img": ""
+            }
+        ]
+    }
+}

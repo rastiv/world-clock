@@ -1,0 +1,123 @@
+.clock {
+    position: relative;
+    display: inline-block;
+    margin-top: 50px;
+    width: 220px;
+    height: 220px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: solid 2px lighten($color-blue, 40%);
+    border-radius: 50%;
+    box-shadow: 0 0 5px 5px #f2f2f2, inset 0 0 10px 10px #f2f2f2;
+    box-sizing: border-box;
+
+    &__line {
+        position: absolute;
+        width: 2px;
+        top: 8px;
+        left: calc(50% - 1px);
+        bottom: 8px;
+
+        &::before,
+        &::after {
+            content: '';
+            position: absolute;
+            width: 2px;
+            height: 9px;
+            background-color: lighten($color-blue, 50%);
+        }
+
+        &::before { top: 0px; }
+        &::after { bottom: 0px; }
+
+        &--big {
+            &::before,
+            &::after {
+                height: 14px;
+                background-color: lighten($color-blue, 30%);
+            }
+        }
+    }
+
+    &__ampm {
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        font-size: 14px;
+        transform: translate(-50%, -50%);
+        color: lighten($color-blue, 60%);
+
+        &-b {
+            display: inline-block;
+            margin: 0 7px;
+            color: lighten($color-blue, 50%);
+            font-weight: 300;
+
+            &.selected {
+                color: lighten($color-blue, 20%);
+            }
+        }
+    }
+
+    &__circle {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 16px;
+        height: 16px;
+        background-color: $color-red;
+        border: solid 5px lighten($color-blue, 20%);
+        border-radius: 50%;
+        box-shadow: 0 0 3px 2px rgba($color-white, .3);
+        transform: translate(-50%, -50%);
+        z-index: 2;
+    }
+
+    &__sarrow {
+        position: absolute;
+        top: 8px;
+        bottom: 8px;
+        width: 2px;
+        left: calc(50% - 1px);
+        z-index: 4;
+        transition: all .3s;
+
+        &::before {
+            content: '';
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            height: calc(50% + 25px);
+            background-color: $color-red;
+        }
+    }
+
+    &__marrow {
+        position: absolute;
+        top: 26px;
+        bottom: 26px;
+        width: 9px;
+        left: calc(50% - 5px);
+        z-index: 2;
+        transition: all .3s;
+
+        & svg {
+            fill: lighten($color-blue, 20%);
+        }
+    }
+
+    &__harrow {
+        position: absolute;
+        top: 42px;
+        bottom: 42px;
+        width: 9px;
+        left: calc(50% - 5px);
+        z-index: 1;
+        transition: all .3s;
+
+        & svg {
+            fill: lighten($color-blue, 20%);
+        }
+    }
+}

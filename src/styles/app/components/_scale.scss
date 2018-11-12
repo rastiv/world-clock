@@ -1,0 +1,45 @@
+.scale {
+    position: relative;
+    height: 35px;
+    overflow: hidden;
+    top: -10px;
+
+    &__line {
+        position: absolute;
+        top: 25px;
+        left: 50%;
+        height: 1px;
+        width: 1200px;
+        background-color: lighten($color-body-text, 20%);
+        transform: translateX(-50%);
+        transition: all .4s;
+    }
+
+    &__L1 {
+        position: absolute;
+        top: -4px;
+        height: 9px;
+        width: 1px;
+        background-color: lighten($color-body-text, 20%);
+
+        & b {
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translate(-50%, -6px);
+            font-size: 15px;
+            font-weight: 300;
+            line-height: 15px;
+            color: lighten($color-body-text, 20%);
+
+        }
+    }
+
+    &__L2 {
+         position: absolute;
+         top: -2px;
+         height: 5px;
+         width: 1px;
+         background-color: lighten($color-body-text, 20%);
+    }
+ }

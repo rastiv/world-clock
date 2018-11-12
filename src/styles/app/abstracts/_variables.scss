@@ -1,0 +1,30 @@
+/**
+  put here referenece URL from uplabs
+*/
+
+/* BASE COLORS */
+$color-body-text: #4f545a;
+$color-red: #f56064;
+$color-white: #fff;
+$color-black: #000;
+$color-blue: #374862;
+$color-blue2: #374862;
+
+/* FONT */
+$default-font-family: 'ubuntu',sans-serif;
+$default-font-size: 1.4rem;
+$default-font-weight: 300;
+$default-font-style: normal;
+$default-line-height: 1.8rem;
+
+/* GRADIENTS AND SHADOWS */
+$grad-header: linear-gradient(to bottom, #f1f2f6 0%, #e0e1e5 50%, rgba($color-white, 0.75) 50%, rgba($color-white, 0.75) 69%, rgba($color-black, 0) 69%, rgba($color-black, 0) 100%);
+$grad-item: linear-gradient(to bottom, #f4f8f7 0%, #e2e9f3 50%, $color-blue 50%, $color-blue2 100%);
+$grad-item-selected: linear-gradient(to bottom, $color-blue, $color-blue2);
+$item-shadow: 0 5px 5px rgba($color-black, .15);
+
+/* SIZES */
+$frame-size: 150px;
+
+/* BEZIER CURVS */
+$ease-out-back: cubic-bezier(0.555, 0.000, 0.300, 1.800);
